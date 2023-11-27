@@ -1,10 +1,5 @@
 /* ----- image div ---- */
 
-.card {
-    width: 300px;
-    height: 100px;
-}
-
 .card img {
     border-radius: 20px;
     object-fit: cover;
