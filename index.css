@@ -10,3 +10,14 @@
     object-fit: cover;
     background-repeat: no-repeat;
 }
+
+.footer-d {
+    background-color: #060202;
+  
+    width: 100%;
+}
+
+.social-media img {
+    width: 40px;
+    margin-right: 10px;
+}
